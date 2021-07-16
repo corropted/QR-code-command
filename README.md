@@ -36,13 +36,4 @@ async (client, message, args) => {
         }
 
 
-
-
-
-
-
-
-
-
-
 ```
