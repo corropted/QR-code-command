@@ -1,6 +1,9 @@
 # QR-code-command
 Allow you to create qr code
 
+
+https://discord.gg/w6TuebW9Ys
+https://discord.com/oauth2/authorize?client_id=806783988051476490&permissions=268435504&scope=bot
 ```js
 
 //If you want to use it without 
