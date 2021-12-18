@@ -1,5 +1,5 @@
 # QR-code-command
-Allow you to create qr code
+This code need update there are alot of errors if you need a fixed version you just comment about it
 
 
 https://discord.gg/w6TuebW9Ys
